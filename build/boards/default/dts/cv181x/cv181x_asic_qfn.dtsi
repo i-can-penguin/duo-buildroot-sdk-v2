@@ -7,9 +7,9 @@
 };
 
 &mipi_tx {
-	reset-gpio = <&porta 15 GPIO_ACTIVE_LOW>;
-	pwm-gpio = <&porta 18 GPIO_ACTIVE_HIGH>;
-	power-ct-gpio = <&porta 19 GPIO_ACTIVE_HIGH>;
+	//reset-gpio = <&porta 15 GPIO_ACTIVE_LOW>;
+	//pwm-gpio = <&porta 18 GPIO_ACTIVE_HIGH>;
+	//power-ct-gpio = <&porta 19 GPIO_ACTIVE_HIGH>;
 };
 
 &dac{
